@@ -1,8 +1,10 @@
 # Bitespeed-Backend-Task
 Identity Reconciliation 
 
-Method**: POST
+Method: POST
+
 Endpoint: `https://****.com/identify`
+
 Request Body:{
 "email":"george@hillvalley.edu",
 "phoneNumber": "717171"
